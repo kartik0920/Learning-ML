@@ -13,7 +13,7 @@ It will contain links to all related repositories, projects, and experiments tha
 
 ## 🔗 Related Projects
 
-- Python Basics: https://github.com/kartik0920/python-basics
+- Python Basics: https://github.com/kartik0920/python_basics
 - Machine Learning Projects: (coming soon)
 - Deep Learning Projects: (coming soon)
 - End-to-End ML Projects: (coming soon)
