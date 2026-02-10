@@ -1,6 +1,3 @@
-[submodule "python basics"]
-	path = python basics
-	url = https://github.com/kartik0920/python_basics
 [submodule "python-basics"]
 	path = python-basics
 	url = https://github.com/kartik0920/python_basics
